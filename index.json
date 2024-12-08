@@ -1,0 +1,14 @@
+{
+  "accelerantresearch": { "campaigns": { "text": false }},
+  "adamlui": { "campaigns": { "text": false }},
+  "amazon": { "campaigns": { "text": true }},
+  "codacy": { "campaigns": { "text": false }},
+  "digitalocean": { "campaigns": { "text": false }},
+  "elevenlabs": { "campaigns": { "text": false }},
+  "expressvpn": { "campaigns": { "text": false }},
+  "kudoai": { "boost": 54, "campaigns": { "text": false }},
+  "proton": { "campaigns": { "text": false }},
+  "reclaim.ai": { "campaigns": { "text": false }},
+  "sofi": { "campaigns": { "text": false }},
+  "surfshark": { "campaigns": { "text": false }}
+}
